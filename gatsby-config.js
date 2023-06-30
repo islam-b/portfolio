@@ -1,7 +1,6 @@
 const config = require('./src/config');
 
 module.exports = {
-  pathPrefix: "/portfolio",
   siteMetadata: {
     title: 'BOUAYACHE Mohamed Islam',
     description:
