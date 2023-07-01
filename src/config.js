@@ -10,6 +10,10 @@ module.exports = {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/islam-bouayache',
     }, 
+    {
+      name: "Accredible",
+      url: "https://www.credential.net/profile/mohamedislambouayache266228"
+    }
   ],
 
   navLinks: [
