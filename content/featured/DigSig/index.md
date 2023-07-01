@@ -1,7 +1,7 @@
 ---
 date: '4'
 title: 'QRSecure'
-cover: './main.png'
+cover: './main.jpg'
 link: 'https://www.newline.co/courses/build-a-spotify-connected-app'
 cta: '/projects/qrsecure'
 tech:
