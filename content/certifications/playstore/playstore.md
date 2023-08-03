@@ -1,10 +1,10 @@
 ---
-date: '2020-03-27'
+date: '2020-12-24'
 title: 'Play Store Listing certificate'
 badge: './badge.png'
-external: 'https://medium.com/stories-from-upstatement/integrating-algolia-search-with-wordpress-multisite-e2dea3ed449c'
+external: 'https://www.credential.net/dc438c82-02a2-4772-af5a-a7f0ee01fc73'
 tech:
-  - May 8, 2022 
+  - December 24, 2022 
 company: 'Google'
 showInProjects: true
 ---

@@ -2,7 +2,6 @@
 date: '3'
 title: 'MyParking'
 cover: './main.png'
-link: 'https://www.newline.co/courses/build-a-spotify-connected-app'
 cta: '/projects/myparking'
 tech:
   - Android

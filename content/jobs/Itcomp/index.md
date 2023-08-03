@@ -7,7 +7,12 @@ range: 'November 2020 - Present'
 url: 'https://itcomp-dz.com/'
 ---
 
-- Deliver high-quality, robust production code for a diverse array of projects for clients including Harvard Business School, Everytown for Gun Safety, Pratt Institute, Koala Health, Vanderbilt University, The 19th News, and more
+
+- Deliver high-quality, robust production code for multiple projects: such as Uniflow (Educational Management System), MyToyota, QRSecure and more...(view Projects).
+- Provide technical support and maintenance for clients
+- Deliver training sessions and practical workshops for our clients on trending web/mobile technologies such as: Angular, React Native
 - Work alongside creative directors to lead the research, development, and architecture of technical solutions to fulfill business requirements
-- Collaborate with designers, project managers, and other engineers to transform creative concepts into production realities for clients and stakeholders
-- Provide leadership within engineering department through close collaboration, knowledge shares, and mentorship
+- Collaborate with project managers to analyze specifications, estimate workload, provide UI prototypes for clients
+- Automate pipelines to ensure CI/CD for demos to teams or clients.
+
+

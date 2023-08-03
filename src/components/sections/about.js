@@ -124,7 +124,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'Angular', 'React', 'Node.js', 'React Native', 'Android (Kotlin)'];
+  const skills = ['JavaScript (ES6+)', 'TypeScript', 'Angular', 'React',  'React Native', 'Android (Kotlin)','Node.js', 'ASP.NET Core'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -134,7 +134,13 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-            Graduated Software Engineer adept in bringing forth expertise in web and mobile development. Proficient in various programming languages, design patterns, tools and platforms. Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team.
+            Me, A dedicated and accomplished software engineer having obtained a degree in Computer Science from Higher Institute of computer science (ESI Algeria).
+            <br/>
+            My experience spans a wide range of projects, from web and mobile applications, I believe in the power of collaboration and have enjoyed working with diverse teams, combining our skills to build remarkable products that make a positive impact on people's lives.
+            <br/>
+            As a software engineer, I value continuous learning and stay up-to-date with the latest industry trends and advancements. 
+            <br/>
+            I actively seeks opportunities to expand my knowledge and skill set, ensuring that I remains at the forefront of technological innovation.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

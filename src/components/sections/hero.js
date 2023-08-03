@@ -65,9 +65,8 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
+      Hello there! 👋 I'm Islam, a passionate and creative software engineer with a love for turning ideas into reality through code.
+       Currently, I’m focused on building accessible, user-centered products at{' '}
         <a href="https://itcomp-dz.com/" target="_blank" rel="noreferrer">
           ITComp
         </a>

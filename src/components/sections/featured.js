@@ -323,7 +323,7 @@ const Featured = () => {
               link
               playstore
               appstore
-              cta
+              
             }
             html
           }

@@ -2,7 +2,6 @@
 date: '2'
 title: 'Uniflow'
 cover: './main.png'
-link: 'https://mytoyota.toyota-algerie.com/'
 cta: '/projects/uniflow'
 tech:
   - Angular
