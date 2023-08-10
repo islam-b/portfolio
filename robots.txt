@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: http://islamb.me/sitemap.xml
-Host: islamb.me
+Sitemap: https://brittanychiang.com/sitemap.xml
+Host: https://brittanychiang.com
