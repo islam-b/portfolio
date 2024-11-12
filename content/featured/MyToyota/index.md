@@ -4,7 +4,7 @@ title: 'MyToyota'
 cover: './main.png'
 link: 'https://mytoyota.toyota-algerie.com/'
 playstore: 'https://play.google.com/store/apps/details?id=com.toyotab2c'
-appstore: 'https://apps.apple.com/fr/app'
+appstore: 'https://apps.apple.com/dz/app/mytoyota-alg%C3%A9rie/id6468983858?platform=iphone'
 cta: '/projects/mytoyota'
 tech:
   - Angular
